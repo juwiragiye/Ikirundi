@@ -41,5 +41,21 @@ If you have any questions or need additional information, please don't hesitate 
 
 We appreciate all contributions to our project, big or small, and will do our best to acknowledge and thank all contributors.
 
+## License
 
+This project is licensed under the [MIT License](LICENSE).
+## Acknowledgements
 
+We would like to thank the following organizations and resources for their contributions to this project:
+
+- The African Language Project for providing English text data that was used in this project.
+- www.matana.de for providing the Kirundi-English dictionary used in this project.
+## Contact
+
+If you have any questions, comments, or feedback on this project, please feel free to get in touch with me at uwiragiyejanvi@gmail.com or via my social media handles:
+
+- <i class="fab fa-twitter"></i> [Twitter](https://twitter.com/janvitech)
+- <i class="fab fa-instagram"></i> [Instagram](https://www.instagram.com/janvirightthere/)
+- <i class="fab fa-github"></i> [GitHub](https://github.com/juwiragiye)
+
+I also welcome contributions to this project! If you would like to contribute code, documentation, or other resources, please see our [contributing guidelines](CONTRIBUTING.md) for more information.
