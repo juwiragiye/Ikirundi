@@ -1,0 +1,45 @@
+# Compiled Python files
+__pycache__/
+*.py[cod]
+
+# Dependencies
+venv/
+env/
+pip-wheel-metadata/
+*.egg-info/
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+*.log
+
+# Other
+*.pyc
+.DS_Store
+# Compiled Python files
+__pycache__/
+*.py[cod]
+
+# Dependencies
+venv/
+env/
+ikenv/
+pip-wheel-metadata/
+*.egg-info/
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+*.log
+
+# Other
+*.pyc
+.DS_Store
